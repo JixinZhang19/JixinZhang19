@@ -1,4 +1,15 @@
-### Hi there 👋
+### 🌟🌟's Github
+
+👸 Pronouns: She/Her/Hers
+
+🏡 Hometown: Chongqing, China
+
+🐱 Cat: A sweet three-year-old boy named Manghuhu
+
+💖 Hobby: Swimming🏊‍♀️, Traveling🌴, Majiang🀄, Tarot🔮
+
+
+
 
 <!--
 **JixinZhang19/JixinZhang19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
