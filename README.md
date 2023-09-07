@@ -6,11 +6,15 @@
 
 <h3 align="left">About me:</h3>
 
-- 👸 Pronouns: She/Her/Hers
-- 🏡 Hometown: Chongqing, China
-- 🐱 Cat: A sweet three-year-old boy named Manghuhu
-- 💖 Hobby: Swimming🏊‍♀️, Traveling🌴, Majiang🀄, Tarot🔮, Hippop🎵
-- ⚡ Fun fact: INTJ, coffee everyday
+👸 Pronouns: She/Her/Hers
+
+🏡 Hometown: Chongqing, China
+
+🐱 Cat: A sweet three-year-old boy named Manghuhu
+
+💖 Hobby: Swimming🏊‍♀️, Traveling🌴, Majiang🀄, Tarot🔮, Hippop🎵
+
+⚡ Fun fact: INTJ, coffee everyday
 
 
 
