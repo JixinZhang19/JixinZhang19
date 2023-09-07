@@ -5,12 +5,12 @@
 
 
 <p align="center">
-<img width="250" src="https://github.com/JixinZhang19/JixinZhang19/blob/main/1.png?raw=true" />
+<img width="200" src="https://github.com/JixinZhang19/JixinZhang19/blob/main/1.png?raw=true" />
 </p>
 
 
 
-<img align="right" alt="img" src="https://github.com/JixinZhang19/JixinZhang19/blob/main/cat.png?raw=true" width="35%" height="auto" />
+<img align="right" alt="img" src="https://github.com/JixinZhang19/JixinZhang19/blob/main/cat.png?raw=true" width="20%" height="auto" />
 <h3 align="left">About me:</h3>
 
 - 👸 Pronouns: She/Her/Hers
