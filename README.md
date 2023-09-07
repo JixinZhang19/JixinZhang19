@@ -1,4 +1,7 @@
-### 🌟🌟's Github
+
+<p align="center">
+  <img width="140" src="https://avatars.githubusercontent.com/u/144247878?v=4" />
+</p>
 
 
 - 👸 Pronouns: She/Her/Hers
@@ -6,6 +9,8 @@
 - 🐱 Cat: A sweet three-year-old boy named Manghuhu
 - 💖 Hobby: Swimming🏊‍♀️, Traveling🌴, Majiang🀄, Tarot🔮, Hippop🎵
 - ⚡ Fun fact: INTJ, coffee everyday
+
+
 
 
 
