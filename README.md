@@ -3,6 +3,7 @@
 </p>
 
 
+
 <h3 align="left">About me:</h3>
 
 - 👸 Pronouns: She/Her/Hers
@@ -12,8 +13,27 @@
 - ⚡ Fun fact: INTJ, coffee everyday
 
 
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<p align="left"> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a> 
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
+</p>
+
+<p align="left"> 
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" style="width: 50px; height: 50px; margin-right: 0px; margin-bottom: 0px;" />
+<img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="50" style="width: 50px; height: 50px; margin-right: 0px; margin-bottom: 0px;" />
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" style="width: 50px; height: 50px; margin-right: 0px; margin-bottom: 0px;" />
+<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" style="width: 50px; height: 50px; margin-right: 0px; margin-bottom: 0px;" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" style="width: 50px; height: 50px; margin-right: 0px; margin-bottom: 0px;" />
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" style="width: 50px; height: 50px; margin-right: 0px; margin-bottom: 0px;" />
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" style="width: 50px; height: 50px; margin-right: 0px; margin-bottom: 0px;" />
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" style="width: 50px; height: 50px; margin-right: 0px; margin-bottom: 0px;" />
+</p>
+
 
 
 <h3 align="left">Connect with me:</h3>
