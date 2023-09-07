@@ -1,8 +1,6 @@
-
-<p align="center">
-  <img width="140" src="https://avatars.githubusercontent.com/u/144247878?v=4" />
+<p>
+<img src="https://github.com/JixinZhang19/JixinZhang19/blob/main/header.png?raw=true" />
 </p>
-
 
 - 👸 Pronouns: She/Her/Hers
 - 🏡 Hometown: Chongqing, China
