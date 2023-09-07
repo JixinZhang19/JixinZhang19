@@ -18,9 +18,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a> 
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://tse4-mm.cn.bing.net/th/id/OIP-C.ug9uYXOWDxE6JM8x7qr8ZQAAAA?pid=ImgDet&rs=1" alt="mongodb" width="50" height="50"/> </a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a>
-<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="50" height="50"/> </a>
+<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://engr-z.com/wp-content/uploads/2021/01/redis-logo.png" alt="redis" width="50" height="50"/> </a>
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50"/> </a>
 </p>
 
@@ -39,10 +39,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/jixin-zhang-b50b1a193/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jixin-zhang-b50b1a193/" height="40" width="40" /></a>
-<a href="https://leetcode.com/892517144/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/892517144/" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/jixin-zhang-b50b1a193/" target="blank"><img align="center" src="https://logos-download.com/wp-content/uploads/2016/03/LinkedIn_Logo_2011.png" alt="https://www.linkedin.com/in/jixin-zhang-b50b1a193/" height="20" width="90" /></a>
 </p>
-
 
 
 <p align="center">
