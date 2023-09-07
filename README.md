@@ -4,13 +4,7 @@
 
 
 
-<p align="center">
-<img width="200" src="https://github.com/JixinZhang19/JixinZhang19/blob/main/1.png?raw=true" />
-</p>
-
-
-
-<img align="right" alt="img" src="https://github.com/JixinZhang19/JixinZhang19/blob/main/cat.png?raw=true" width="20%" height="auto" />
+<img align="right" alt="img" src="https://github.com/JixinZhang19/JixinZhang19/blob/main/cat.png?raw=true" width="30%" height="auto" />
 <h3 align="left">About me:</h3>
 
 - 👸 Pronouns: She/Her/Hers
@@ -23,11 +17,11 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a>
+<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="50" height="50"/> </a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50"/> </a>
 </p>
 
 <p align="left"> 
@@ -45,6 +39,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/jixin-zhang-b50b1a193/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jixin-zhang-b50b1a193/" height="30" width="40" /></a>
-<a href="https://leetcode.com/892517144/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/892517144/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jixin-zhang-b50b1a193/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jixin-zhang-b50b1a193/" height="40" width="40" /></a>
+<a href="https://leetcode.com/892517144/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/892517144/" height="40" width="40" /></a>
+</p>
+
+
+
+<p align="center">
+<img width="200" src="https://github.com/JixinZhang19/JixinZhang19/blob/main/1.png?raw=true" />
 </p>
