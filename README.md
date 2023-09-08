@@ -43,5 +43,5 @@
 <a href="mailto:892517144@qq.com"> <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white" height="25px" alt="Email">
 
 <p align="center">
-<img width="200" src="https://github.com/JixinZhang19/JixinZhang19/blob/main/1.png?raw=true" />
+<img width="200" src="https://c-ssl.duitang.com/uploads/blog/202204/20/20220420232323_f9123.gif" />
 </p>
