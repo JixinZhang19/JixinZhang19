@@ -41,7 +41,8 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/jixin-zhang-b50b1a193/"><img src="https://img.shields.io/badge/LinkedIn-006CAC.svg?&style=plastic&logo=linkedin&logoColor=white" height="25px" alt="LinkedIn"> </a>
 <a href="mailto:892517144@qq.com"> <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white" height="25px" alt="Email">
-
+<a href="https://leetcode.com/892517144/"><img src="https://img.shields.io/badge/Leetcode-099CQC.svg?&style=plastic&logo=leetcode&logoColor=white" height="25px" alt="LeetCode"> </a>
+  
 <p align="center">
 <img width="200" src="https://c-ssl.duitang.com/uploads/blog/202204/20/20220420232323_f9123.gif" />
 </p>
