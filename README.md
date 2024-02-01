@@ -39,7 +39,6 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/jixin-zhang-b50b1a193/"><img src="https://img.shields.io/badge/LinkedIn-006CAC.svg?&style=plastic&logo=linkedin&logoColor=white" height="25px" alt="LinkedIn"> </a>
 <a href="mailto:892517144@qq.com"> <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white" height="25px" alt="Email">
 <a href="https://leetcode.com/892517144/"><img src="https://img.shields.io/badge/Leetcode-099CQC.svg?&style=plastic&logo=leetcode&logoColor=white" height="25px" alt="LeetCode"> </a>
   
